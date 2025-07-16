@@ -53,3 +53,7 @@ Each rule in `firewall_rules.json` looks like this:
 You can modify or add your own rules.
 
 ---
+
+### License
+
+MIT License
